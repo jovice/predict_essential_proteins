@@ -1,0 +1,13 @@
+連猴子都懂的Git命令
+
+echo "# predict_essential_proteins" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jovice/predict_essential_proteins.git
+git push -u origin master
+
+HTTPS
+	https://github.com/jovice/predict_essential_proteins.git
+SSh
+	git@github.com:jovice/predict_essential_proteins.git
